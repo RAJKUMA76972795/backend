@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"e6bcc40dcd2046a59ac0ef2a1f8be45a","collectionName":"golives","type":"collection"}

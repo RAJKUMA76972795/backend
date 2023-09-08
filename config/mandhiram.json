@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "mandhiram-temple1",
+    "private_key_id": "be9c1dce7db845e5e52491aedb5c9e19d961e615",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPqfxPbWCsLDrq\nWCqG9ezgPpnz9Te1eczS2RuMB9ZjL5AZiAnqJIeiQ1CqAuoUYu6qyGwshW02uQV1\nZvdBCs19iG9Rnoa7Q2CEeYx+FiCWxls4JysHLd0+tvTn9+ETMAAknac/iH2VmXxy\nK2fMkHAP0tH5e+gNoOmzzSk/bZqZH7FiTbBNHldCHcRwZcJUFSD+wYrIuCXjPJ/A\nV7sBlR73th18KDZGM9RLE8LP3zowaM25/kC/6+ox+8Ym+ILApCmQYkFxSmdfs6H9\nRpZDmRgJurq2kwhwmIA9Aon2vbcQ0zeIE/TuNA97FnyGStdjpkWMfU6yjI6mvmUr\nQUdudQh5AgMBAAECggEAKT8ksak1mDkasS2fCCCTYc6XZPOCixftNpwezJVzeAav\n2KS2NANI7c1l22n6yt+cpmvkouOr94onhw2I76OqW+BQFZ7uD9XIYECFla3ErYVF\nq1mTgPwqCVd9+RuyA1BEuj6JRjRp2gm3MRBFPPY7Nk/Q+VAZz8/jSTweG5fcSxng\nMQHv/Z6Se+EBs9LyzkpciWLU1LltpKoEDE6Rt4/fHztdWDCEUSGrNDhprucBf64A\nnGCE9/h2wDNdlLyJ7Ar7M2KDHL8KmxZNMepbadp2WynIyM7eQm943aSBwuXVbhHZ\nw6QSfDxasrDs0lRvDlKokh1QZlH/GzppfXw+WY82AQKBgQDC8fmkYBmZMyZycQk5\nHzx8ESBVUiWR+DciD7HMZtlAgO/52/Og//Tv5h3zNOTxEs4G2CdLW9z7+hg15cEZ\nh3uYCO1HS9x9e3Y2u9oPkJm6skuHeF0tu0ODfu+XD48zgfWTM2oKb2B8oCJqpB0G\nPPxLT1XxVJPszIO0e+FMbF98GwKBgQC8qHZtdKg5WEd2SRgXjpJm1iDMN69HwOdU\n5YKxkZHDs12yKZhU0QxwSXt/1Rc7hzCKqMpQfHllnFKdNKusluo2H28C3SDAnGQN\n+URKV7TprFSWsNPMinp+Tjf2uH5KsEpg/Z5LlGStNVpjsId8Ny9TbPcBBK/Z1fa1\nJidwQzSu+wKBgQC3x1R4QNyBD7aEFsoCHs9vitm3dZzTknOvWapdLuxKogMZwuBX\nfFUVwBOmDsxx9C9kRmws3+phZbFjRjiXb6D1gBzopLy1UynriYaWO9ShK6qGiNMW\n5L5N/eGywElY3oB7h/HE6qDEfFZVwGdYVS/nc2BrBTf6+gaDpHGOEXCm1wKBgHig\nfpid7rI77/WB5xWo45M9dtsc/8YxYbi2x0oiecFX/qDcV7pjsEBbu8uQxLobRr5i\nDnpIHJcLzQcXlm1UUY0prCF4omiFlrQYncGrMtH2jl+L0OEH6iq4eLAYZyf6cJRz\nlbNdvsHBS3pSdU7HOkttcMIF7Sqr1IMfUjhFwHnhAoGAK6TzrZU2rRgft6a3sQ1a\nt/MMSWp2iD4ib7sJw6IkepbhJXtdbmRE7+WYjnZgNLtk+diccBwZwU+kEABzQxeg\ngoClNw/XfQyq4hY/EmoRL53dresarDbzGk2RV+Zo/h689xFQxXIMcJsEa7OLF1NQ\n78hpg2dIPF5VIcMV0ngfkZk=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-jzchs@mandhiram-temple1.iam.gserviceaccount.com",
+    "client_id": "106806138818656763050",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jzchs%40mandhiram-temple1.iam.gserviceaccount.com"
+  }
